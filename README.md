@@ -10,6 +10,7 @@ A modern, browser-based JavaScript code editor with AI-powered auto-fixing capab
 - **📝 Real-time Console**: See your code output and error messages instantly
 - **❓ Smart Help System**: Get instant help on JavaScript topics with AI assistance
 - **⚡ Fast & Responsive**: Built with Next.js 16 and React 19
+- 
 Video link:https://drive.google.com/file/d/1oR8snK1jO3HSFXaOnnP4UuM08935e4lw/view?usp=sharing
 ## 🚀 How to Run the Project
 
